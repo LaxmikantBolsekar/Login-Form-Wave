@@ -4,7 +4,7 @@
 
 body {
   background-color: rgb(127, 79, 150);
-  color: #fff;
+  color: whitesmoke;
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
@@ -28,7 +28,7 @@ body {
 
 .container a {
   text-decoration: none;
-  color: lightblue;
+  color:whitesmoke;
 }
 
 .btn {
@@ -68,18 +68,18 @@ body {
 .form-control input {
   background-color: transparent;
   border: 0;
-  border-bottom: 2px #fff solid;
+  border-bottom: 2px whitesmoke solid;
   display: block;
   width: 100%;
   padding: 15px 0;
   font-size: 18px;
-  color: #fff;
+  color: whitesmoke;
 }
 
 .form-control input:focus,
 .form-control input:valid {
   outline: 0;
-  border-bottom-color: lightblue;
+  border-bottom-color: whitesmoke;
 }
 
 .form-control label {
@@ -98,6 +98,6 @@ body {
 
 .form-control input:focus + label span,
 .form-control input:valid + label span {
-  color: lightblue;
+  color: whitesmoke;
   transform: translateY(-30px);
 }
