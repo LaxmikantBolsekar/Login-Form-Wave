@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: steelblue;
+  background-color: rgb(127, 79, 150);
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -35,7 +35,7 @@ body {
   cursor: pointer;
   display: inline-block;
   width: 100%;
-  background: lightblue;
+  background: rgb(127, 79, 150);
   padding: 15px;
   font-family: inherit;
   font-size: 16px;
